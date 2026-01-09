@@ -20,7 +20,7 @@
 *   **技術**: YOLOv8, OpenCV, Pygame, Discord Webhook
 *   **特徴**: 猫を検知して威嚇音を再生＆証拠写真をDiscordに即時通知
 
-### 3. [Amazon Market Bot](https://github.com/oshi5to01-design/amazon-ranking-bot)
+### 3. [Amazon Market Bot](https://github.com/oshi5to01-design/amazon_marketer_bot)
 **スクレイピング対策済み自動化ツール**
 *   **技術**: Selenium, undetected-chromedriver, Gemini API, Tewwpy
 *   **特徴**: 仮想ディスプレイでのヘッドレス運用、Bot検知回避ロジック
