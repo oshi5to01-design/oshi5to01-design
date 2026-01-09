@@ -10,7 +10,7 @@
 
 ## Portfolio (代表作)
 
-### 1. [せどりすと (Stock Manager SaaS)](https://github.com/oshi5to01-design/stock-manager-saas)
+### 1. [せどりすと (Stock Manager SaaS)](https://github.com/oshi5to01-design/sedolist)
 **「現場で使える」AI在庫管理SaaS**
 *   **技術**: Python, Streamlit, PostgreSQL, Docker, Gemini API, FastAPI
 *   **特徴**: スマホ対応UI、AIによる値札読み取り、ユーザー認証、排他制御
