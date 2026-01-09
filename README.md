@@ -22,7 +22,7 @@
 
 ### 3. [Amazon Market Bot](https://github.com/oshi5to01-design/amazon_marketer_bot)
 **スクレイピング対策済み自動化ツール**
-*   **技術**: Selenium, undetected-chromedriver, Gemini API, Tewwpy
+*   **技術**: Selenium, undetected-chromedriver, Gemini API, Tweepy
 *   **特徴**: 仮想ディスプレイでのヘッドレス運用、Bot検知回避ロジック
 
 ---
