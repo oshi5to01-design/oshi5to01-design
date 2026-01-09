@@ -15,7 +15,7 @@
 *   **技術**: Python, Streamlit, PostgreSQL, Docker, Gemini API, FastAPI
 *   **特徴**: スマホ対応UI、AIによる値札読み取り、ユーザー認証、排他制御
 
-### 2. [AI猫検知カメラ (Cat Security)](https://github.com/oshi5to01-design/ai-cat-security-camera)
+### 2. [AI猫検知カメラ (Cat Security)](https://github.com/oshi5to01-design/ai_cat_security_camera)
 **リアルタイム物体検知 × IoTシステム**
 *   **技術**: YOLOv8, OpenCV, Pygame, Discord Webhook
 *   **特徴**: 猫を検知して威嚇音を再生＆証拠写真をDiscordに即時通知
