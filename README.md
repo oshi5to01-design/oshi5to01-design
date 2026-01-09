@@ -26,4 +26,3 @@
 *   **特徴**: 仮想ディスプレイでのヘッドレス運用、Bot検知回避ロジック
 
 ---
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oshi5to01-design&theme=radical)
