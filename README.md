@@ -12,7 +12,7 @@
 
 ### 1. [せどりすと (Stock Manager SaaS)](https://github.com/oshi5to01-design/sedolist)
 **「現場で使える」AI在庫管理SaaS**
-*   **技術**: Python, Streamlit, PostgreSQL, Docker, Gemini API, FastAPI
+*   **技術**: Python, Streamlit, PostgreSQL, Docker, Gemini API
 *   **特徴**: スマホ対応UI、AIによる値札読み取り、ユーザー認証、排他制御
 
 ### 2. [AI猫検知カメラ (Cat Security)](https://github.com/oshi5to01-design/ai_cat_security_camera)
